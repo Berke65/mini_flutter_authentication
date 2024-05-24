@@ -1,16 +1,18 @@
-# untitled2
+# Mini Flutter Authentication
 
-A new Flutter project.
+Mini Flutter Authentication is a simple authentication app built using Flutter framework. It provides basic authentication features such as user registration, login, and password reset functionality.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Registration**: Allows users to create a new account by providing necessary information such as email and password.
+- **Login**: Enables registered users to log in to their account securely.
+- **Password Reset**: Provides a mechanism for users to reset their password via email.
+- **Responsive Design**: Ensures optimal user experience across various screen sizes and orientations.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project utilizes the following technologies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Firebase Authentication**: Firebase's authentication service for securely managing user identities.
+- **Firebase Firestore**: Firebase's cloud-hosted NoSQL database for storing user data.
